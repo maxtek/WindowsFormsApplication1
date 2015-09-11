@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+/.vs/WindowsFormsApplication1/v14/*.suo
+/WindowsFormsApplication1/bin
+/WindowsFormsApplication1/obj
+=======
+# git ignore file
+/WindowsFormsApplication1/bin
+/WindowsFormsApplication1/obj
+*.suo
+>>>>>>> Production
