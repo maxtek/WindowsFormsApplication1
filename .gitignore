@@ -1,3 +1,4 @@
 # git ignore file
 /WindowsFormsApplication1/bin
 /WindowsFormsApplication1/obj
+*.suo
